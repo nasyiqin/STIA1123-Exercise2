@@ -1,4 +1,4 @@
-public class Ques1 {
+public class SquareCube {
 
     public static void main(String[] args) {
 
@@ -7,7 +7,7 @@ public class Ques1 {
         int num = 11; //declare num as 11
 
         for (int i = 0; i < num; i++) { //loop 1 until 10
-            System.out.println(i + "\t\t\t" + (int)Math.pow(i, 2) + "\t\t\t" + (int)Math.pow(i, 3)); //output
+            System.out.println(i + "\t\t\t" + (int)Math.pow(i, 2) + "\t\t\t" + (int)Math.pow(i, 3)); //output with calculation 
         }
     }
 }
