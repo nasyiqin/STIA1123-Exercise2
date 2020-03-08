@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ques3 {
+public class PrintReverse {
 
     public static void main(String[] args)
     {
